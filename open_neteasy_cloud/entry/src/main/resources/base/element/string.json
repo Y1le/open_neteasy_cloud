@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "default_list_item_title",
+      "value": "默认列表标题"
+    },
+    {
+      "name": "default_list_item_summary",
+      "value": "默认列表摘要"
+    },
+    {
+      "name": "default_category_title",
+      "value": "默认分类标题"
+    },
+    {
+      "name": "module_desc",
+      "value": "This module template implements Category List functions."
+    },
+    {
+      "name": "ability_desc",
+      "value": "This ability loads CategoryListPage."
+    },
+    {
+      "name": "ability_label",
+      "value": "Category List Ability"
+    },
+    {
+      "name": "list_item_title",
+      "value": "Single list"
+    },
+    {
+      "name": "list_item_summary",
+      "value": "Right text"
+    },
+    {
+      "name": "page_title",
+      "value": "Title"
+    },
+    {
+      "name": "sub_title",
+      "value": "Subtitle"
+    },
+    {
+      "name": "detail_default_title",
+      "value": "Default title"
+    }
+  ]
+}
